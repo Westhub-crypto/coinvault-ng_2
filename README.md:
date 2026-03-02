@@ -1,0 +1,15 @@
+# CoinVault NG
+
+## Admin Login
+Username: westpablo
+Password: @Westpablo1
+
+## Deployment Steps
+1. Push backend and admin-dashboard folders to GitHub.
+2. Deploy backend as Web Service on Render.
+3. Deploy admin-dashboard/build as Static Site.
+4. Set PostgreSQL DB URL in environment variables.
+5. Test Telegram mini-app with Monetag SDK.
+
+## Monetag SDK
+<script src="//libtl.com/sdk.js" data-zone="10672352" data-sdk="show_10672352"></script>

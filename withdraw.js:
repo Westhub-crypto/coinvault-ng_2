@@ -1,0 +1,9 @@
+const express = require('express');
+const router = express.Router();
+
+router.post('/', (req, res) => {
+    const { userId, amount } = req.body;
+    res.json({ success: true, status: "pending" });
+});
+
+module.exports = router;

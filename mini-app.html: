@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>CoinVault NG Mini-App</title>
+<script src="//libtl.com/sdk.js" data-zone="10672352" data-sdk="show_10672352"></script>
+</head>
+<body>
+<h1>CoinVault NG</h1>
+<!-- Tap-to-earn UI goes here -->
+</body>
+</html>
